@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Olesya Panova](https://up.htmlacademy.ru/adaptive/24/user/91047).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
